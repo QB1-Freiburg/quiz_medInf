@@ -7,7 +7,7 @@ Wenn ich zwei Ergebnismengen mit dem Boolschen Operator NOT verknüpfe, dann ...
 1)  ... ist meine Ergebnismenge immer gleich oder größer.<br>  
 2)  ... ist meine Ergebnismenge unter Umständen leer.<br>  
 3)  ... ist die Reihenfolge der Mengen wichtig (a NOT b vs. b NOT a).<br>  
-4)  ... ist meine Ergebnismenge immer gleich oder kleiner.<br>
+4)  ... ist meine Ergebnismenge immer gleich oder kleiner.<br>  
 5)  ... besteht meine Ergebnismenge aus allen Elementen der ersten Menge, die nicht in der zweiten Menge enthalten sind. <br>  
   
 ---
@@ -16,11 +16,11 @@ Wenn ich zwei Ergebnismengen mit dem Boolschen Operator NOT verknüpfe, dann ...
    
 Wenn ich die Genauigkeit (Precision) meiner Suchergebnisse erhöhen will, dann kann ich das erreichen, indem ich...<br>  
   
- 1)  ... spezifische Feldkürzel bei der Textwortsuche verwende.<br>
- 2)  ... in der MeSH Database den MeSH-Begriffen passende Subheadings zuordne.<br>
- 3)  ... mehrere Komponenten der PICO-Fragestellung mit AND verbinde.<br>
- 4)  ... auch nach den Unterbegriffen der MeSH-Terms suche.<br>
- 5)  ... eine Phrasensuche anwende.<br>
+ 1)  ... spezifische Feldkürzel bei der Textwortsuche verwende.<br>  
+ 2)  ... in der MeSH Database den MeSH-Begriffen passende Subheadings zuordne.<br>  
+ 3)  ... mehrere Komponenten der PICO-Fragestellung mit AND verbinde.<br>  
+ 4)  ... auch nach den Unterbegriffen der MeSH-Terms suche.<br>  
+ 5)  ... eine Phrasensuche anwende.<br>  
   
 ---
 
@@ -57,9 +57,9 @@ In PubMed habe ich eine schrittweise Suche durchgeführt. Meine History enthält
 | #5     | Search: "Diabetic Retinopathy"[Mesh]  | 24466       |
 | #3     | Search: "Macular Edema"[Mesh]         | 7053        |
   
-1)  #3 AND #5 wird zwischen 0 und 7053 Treffer liefern.<br>
-2)  #3 OR #5 kann höchstens 7053 Treffer enthalten.<br>
-3)  #3 OR #5 wird mindestens 24466 Treffer liefern.<br>
-4)  #3 AND #5 wird mindestens 7053 Treffer enthalten.<br>
-5)  #3 OR #5 wird zwischen 24466 und 31519 Treffer liefern.<br>
+1)  #3 AND #5 wird zwischen 0 und 7053 Treffer liefern.<br>  
+2)  #3 OR #5 kann höchstens 7053 Treffer enthalten.<br>  
+3)  #3 OR #5 wird mindestens 24466 Treffer liefern.<br>  
+4)  #3 AND #5 wird mindestens 7053 Treffer enthalten.<br>  
+5)  #3 OR #5 wird zwischen 24466 und 31519 Treffer liefern.<br>  
   
